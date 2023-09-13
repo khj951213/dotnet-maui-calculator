@@ -1,0 +1,1 @@
+C:\Users\June\Documents\GitHub\dotnet-maui-calculator\dotnet-maui-calculator\dotnet-maui-calculator.csproj;x64

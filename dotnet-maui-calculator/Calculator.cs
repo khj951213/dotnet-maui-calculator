@@ -17,7 +17,7 @@ namespace dotnet_maui_calculator
                 case "/":
                     result = value1 / value2;
                     break;
-                case "x":
+                case "*":
                     result = value1 * value2;
                     break;
                 case "+":

@@ -29,29 +29,29 @@
     <AppXManifest Include="C:\Users\June\Documents\GitHub\dotnet-maui-calculator\dotnet-maui-calculator\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-09-13T23:06:30.504</Modified>
+      <Modified>2023-09-14T05:29:06.938</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\June\Documents\GitHub\dotnet-maui-calculator\dotnet-maui-calculator\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-09-13T22:57:46.619</Modified>
+      <Modified>2023-09-14T05:24:42.141</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\June\Documents\GitHub\dotnet-maui-calculator\dotnet-maui-calculator\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dotnet-maui-calculator.runtimeconfig.json">
       <PackagePath>dotnet-maui-calculator.runtimeconfig.json</PackagePath>
-      <Modified>2023-09-13T01:31:43.629</Modified>
+      <Modified>2023-09-14T05:24:41.048</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\June\Documents\GitHub\dotnet-maui-calculator\dotnet-maui-calculator\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dotnet-maui-calculator.dll">
       <PackagePath>dotnet-maui-calculator.dll</PackagePath>
-      <Modified>2023-09-13T23:06:29.623</Modified>
+      <Modified>2023-09-14T05:29:04.922</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\June\Documents\GitHub\dotnet-maui-calculator\dotnet-maui-calculator\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>dotnet-maui-calculator.exe</PackagePath>
-      <Modified>2023-09-13T23:06:29.632</Modified>
+      <Modified>2023-09-14T05:29:04.954</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\June\Documents\GitHub\dotnet-maui-calculator\dotnet-maui-calculator\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\dotnet-maui-calculator.deps.json">
       <PackagePath>dotnet-maui-calculator.deps.json</PackagePath>
-      <Modified>2023-09-13T01:38:13.622</Modified>
+      <Modified>2023-09-14T05:24:40.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\June\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.21\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>

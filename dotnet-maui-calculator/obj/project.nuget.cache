@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "raMlRiTjqCPISH3USBbO1zQ+80v7H1XyqMalxON7xbFE0tIuhKLpJInbBCUXCRFfDfB9rgpF1Lv28sBKRSuUbg==",
+  "dgSpecHash": "Fk+GQvA/cLZwRb/Oe04htWvFjG0IWFonPDfUZxOfaNJbyXqc7a8gb5Ukbe//PdltK19n8c6wZk4dumDIe0rKeg==",
   "success": true,
   "projectFilePath": "C:\\Users\\June\\Documents\\GitHub\\dotnet-maui-calculator\\dotnet-maui-calculator\\dotnet-maui-calculator.csproj",
   "expectedPackageFiles": [
@@ -123,8 +123,8 @@
     "C:\\Users\\June\\.nuget\\packages\\microsoft.maui.core.ref.ios\\6.0.553\\microsoft.maui.core.ref.ios.6.0.553.nupkg.sha512",
     "C:\\Users\\June\\.nuget\\packages\\microsoft.ios.ref\\16.4.60\\microsoft.ios.ref.16.4.60.nupkg.sha512",
     "C:\\Users\\June\\.nuget\\packages\\microsoft.maui.controls.ref.ios\\6.0.553\\microsoft.maui.controls.ref.ios.6.0.553.nupkg.sha512",
+    "C:\\Users\\June\\.nuget\\packages\\microsoft.ios.runtime.ios-arm64\\16.4.60\\microsoft.ios.runtime.ios-arm64.16.4.60.nupkg.sha512",
     "C:\\Users\\June\\.nuget\\packages\\microsoft.maui.essentials.runtime.ios\\6.0.553\\microsoft.maui.essentials.runtime.ios.6.0.553.nupkg.sha512",
-    "C:\\Users\\June\\.nuget\\packages\\microsoft.ios.runtime.iossimulator-x64\\16.4.60\\microsoft.ios.runtime.iossimulator-x64.16.4.60.nupkg.sha512",
     "C:\\Users\\June\\.nuget\\packages\\microsoft.maui.core.runtime.ios\\6.0.553\\microsoft.maui.core.runtime.ios.6.0.553.nupkg.sha512",
     "C:\\Users\\June\\.nuget\\packages\\microsoft.maui.controls.ref.maccatalyst\\6.0.553\\microsoft.maui.controls.ref.maccatalyst.6.0.553.nupkg.sha512",
     "C:\\Users\\June\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64\\16.4.60\\microsoft.maccatalyst.runtime.maccatalyst-x64.16.4.60.nupkg.sha512",
